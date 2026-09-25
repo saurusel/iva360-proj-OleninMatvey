@@ -1,0 +1,3 @@
+.payload__modal-container:not(:has(.payload__modal-item)) {
+  pointer-events: none !important;
+}

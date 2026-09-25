@@ -1,0 +1,11 @@
+apps/web/src/shared/ui/
+apps/web/src/shared/lib/icons.tsx
+apps/web/src/shared/lib/utils.ts
+apps/web/src/shared/lib/hooks/use-mobile.ts
+apps/web/src/app/assets/css/tokens.css
+
+packages/shared/src/payload-types.ts
+apps/cms/src/app/
+pnpm-lock.yaml
+
+/backup/

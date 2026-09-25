@@ -1,0 +1,5 @@
+export type { Dictionary } from './dictionaries/ru'
+export { getDictionary } from './get-dictionary'
+export { I18nProvider, useI18n } from './i18n-provider'
+export { plural } from './plural'
+export { resolveLocale } from './resolve-locale'
